@@ -4,7 +4,7 @@
 #
 Name     : pypi-urllib3
 Version  : 1.26.11
-Release  : 126
+Release  : 127
 URL      : https://files.pythonhosted.org/packages/6d/d5/e8258b334c9eb8eb78e31be92ea0d5da83ddd9385dc967dd92737604d239/urllib3-1.26.11.tar.gz
 Source0  : https://files.pythonhosted.org/packages/6d/d5/e8258b334c9eb8eb78e31be92ea0d5da83ddd9385dc967dd92737604d239/urllib3-1.26.11.tar.gz
 Summary  : HTTP library with thread-safe connection pooling, file post, and more.
